@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudharshan TK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tks18&label=Profile%20views&color=ae00ff&style=flat-square" alt="tks18" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tks18" alt="tks18" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shantk18" target="blank"><img src="https://img.shields.io/twitter/follow/shantk18?logo=twitter&style=for-the-badge" alt="shantk18" /></a> </p>
