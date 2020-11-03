@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flutter, Vuejs, Gsap, Nodejs, Mongodb**
 
-- 📫 How to reach me **tksudharshan@gmail.com**
+- 📫 How to reach me **tksudharshan@infozy.tk**
 
 - 📄 Know about my experiences [https://shan-tk.ga](https://shan-tk.ga)
 
