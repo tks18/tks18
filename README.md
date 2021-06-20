@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 👨‍💻 All of my projects are available at [https://shaaan.tk](https://shaaan.tk)
+- 👨‍💻 All of my projects are available at [sudharshan.tk](https://sudharshan.tk)
 
-- 📝 I regulary write articles on [https://shaaan.tk](https://shaaan.tk)
+- 📝 I regulary write articles on [sudharshan.tk/blog](https://sudharshan.tk)
 
 - 💬 Ask me about **Flutter, Vuejs, Gsap, Nodejs, Mongodb**
 
 - 📫 How to reach me **tksudharshan@gmail.com**
 
-- 📄 Know about my experiences [https://shaaan.tk](https://shaaan.tk)
+- 📄 [Know about my experiences](https://sudharshan.tk/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
