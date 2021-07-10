@@ -48,5 +48,4 @@
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tks18&show_icons=true&theme=dracula&locale=en" alt="tks18" />
 </p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tks18&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tks18" /></p>
 <p><h3 align="left">Support:</h3><a href="https://www.buymeacoffee.com/shantk18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shantk18" /></a></p><br><br>
