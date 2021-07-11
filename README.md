@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudharshan TK</h1>
 <h3 align="center">A Passionate Frontend & Backend Developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tks18" alt="tks18" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shantk18" target="blank"><img src="https://img.shields.io/twitter/follow/shantk18?logo=twitter&style=for-the-badge" alt="shantk18" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tks18&theme=darkhub&column=4" alt="tks18" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/tks18/matte-portfolio)
 
@@ -20,6 +18,8 @@
 - 📄 [Know about my experiences](https://sudharshan.tk/about)
 
 <h3 align="center">Connect with me:</h3>
+<p align="center"> <a href="https://twitter.com/shantk18" target="blank"><img src="https://img.shields.io/twitter/follow/shantk18?color=%23FFD523&label=Fllow%20me%20%40shantk18&logo=Twitter&logoColor=%23FFD523&style=for-the-badge" alt="shantk18" /></a> </p>
+
 <p align="center">
 <a href="https://codepen.io/tks-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tks-18" height="30" width="40" /></a>
 <a href="https://dev.to/tks18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tks18" height="30" width="40" /></a>
