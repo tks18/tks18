@@ -18,7 +18,7 @@
 - 📄 [Know about my experiences](https://sudharshan.tk/about)
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="https://twitter.com/shantk18" target="blank"><img src="https://img.shields.io/twitter/follow/shantk18?color=%23FFD523&label=Fllow%20me%20%40shantk18&logo=Twitter&logoColor=%23FFD523&style=for-the-badge" alt="shantk18" /></a> </p>
+<p align="center"> <a href="https://twitter.com/shantk18" target="blank"><img src="https://img.shields.io/twitter/follow/shantk18?color=%23FFD523&label=Follow%20me%20%40shantk18&logo=Twitter&logoColor=%23FFD523&style=for-the-badge" alt="shantk18" /></a> </p>
 
 <p align="center">
 <a href="https://codepen.io/tks-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tks-18" height="30" width="40" /></a>
