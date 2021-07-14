@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm Sudharshan TK</h1>
-<h3 align="center">A Passionate Frontend & Backend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tks18&theme=darkhub&column=4" alt="tks18" /></a> </p>
 
