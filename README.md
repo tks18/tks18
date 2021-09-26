@@ -81,8 +81,20 @@
 
 <p align="center">
   <h3 align="center">🐍 My Snake Contribution Graph 
-    <img src="https://github.com/tks18/tks18/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
+    <img align="center" src="https://github.com/tks18/tks18/raw/output/github-contribution-grid-snake.svg" alt="contribution graph" />
   </h3>
+</p>
+
+<hr>
+
+<h3 align="center"> 🛠 Tech Stack </h3>
+<p align="center"> 
+  <p align="center">
+    <p align="center">
+      <h4 align="center"> Frontend </h4>
+      <img src="https://img.shields.io/badge/Vuejs-00599C?style=flat&logo=vue.js&logoColor=white&logoWidth=40" alt="vuejs" width="80" />
+    </p>          
+  </p>  
 </p>
 
 <hr>
