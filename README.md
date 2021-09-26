@@ -87,18 +87,6 @@
 
 <hr>
 
-<h3 align="center"> 🛠 Tech Stack </h3>
-<p align="center"> 
-  <p align="center">
-    <p align="center">
-      <h4 align="center"> Frontend </h4>
-      <img src="https://img.shields.io/badge/Vuejs-00599C?style=flat&logo=vue.js&logoColor=white&logoWidth=40" alt="vuejs" width="80" />
-    </p>          
-  </p>  
-</p>
-
-<hr>
-
 <h3 align="center">💻 Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
