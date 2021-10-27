@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tks18&theme=darkhub&column=4" alt="tks18" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tks18&theme=dracula&column=4&no-bg=true" alt="tks18" />
   </a> 
 </p>
 
