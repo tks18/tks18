@@ -209,8 +209,10 @@
 </p>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tks18&theme=dracula&hide_border=true" alt="tks18" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tks18&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My Github Figures" alt="tks18" />
+  <span align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tks18&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My Github Figures" width="49%" alt="tks18" />
+  </span>
+  <span align="right">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tks18&theme=dracula&hide_border=true" width="49%" alt="tks18" />
+  </span>
 </p>
