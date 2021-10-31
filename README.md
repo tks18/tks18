@@ -10,7 +10,7 @@
 </h3>
 <p align="center"> 
   <a href="https://profile.codersrank.io/user/tks18/">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tks18" alt="tks18" />
+  <img src="https://i.ibb.co/VJ8Pkc3/image.png" alt="tks18" />
   </a> 
 </p>
 <p align="center">
