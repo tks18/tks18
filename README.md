@@ -4,9 +4,7 @@
   I'm Sudharshan TK ✨
 </h1>
 <h3 align="center">
-  A Passionate 🤩 Full Stack 
-  &nbsp;<img src="https://i.ibb.co/gZ33N5y/100-emoji.png" alt="100 plus" height="30" width="30" />&nbsp; 
-  Developer 👨‍💻
+  A Passionate 🤩 Full Stack 💯 Developer 👨‍💻
 </h3>
 <p align="center"> 
   <a href="https://profile.codersrank.io/user/tks18/">
