@@ -21,8 +21,8 @@
 <h3 align="center"> 
   🔗 Links:
 </h3>
-<p align="center"><b> 🌐 <a href="https://sudharshan.tk/">sudharshan.tk</a> </b> </p>
-<p align="center"><b> 📧 <a href="mailto:hello@sudharshan.tk">hello@sudharshan.tk</a> </b> </p>
+<p align="center"><b> 🌐 <a href="https://sudharshan.dev/">sudharshan.dev</a> </b> </p>
+<p align="center"><b> 📧 <a href="mailto:hello@sudharshan.dev">hello@sudharshan.dev</a> </b> </p>
 </p>
 <hr>
 <p align="center">
