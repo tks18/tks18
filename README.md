@@ -8,7 +8,7 @@
 </h3>
 <p align="center"> 
   <a href="https://profile.codersrank.io/user/tks18/">
-  <img src="https://i.ibb.co/1Z6zRKB/Screen-Shot-widget-summary-username-tks18.png" width="70%" alt="tks18" />
+  <img src="https://i.ibb.co/SXwCTPp/codersrank.png" width="70%" alt="tks18" />
   </a> 
 </p>
 <p align="center">
@@ -207,7 +207,7 @@
 </p>
 <br>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tks18&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My Github Figures" alt="tks18" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tks18&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Github%20Figures" alt="tks18" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tks18&theme=dracula&hide_border=true" alt="tks18" />
 </p>
 
