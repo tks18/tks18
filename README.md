@@ -42,7 +42,7 @@
   </a>
   <a href="https://twitter.com/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantk18" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/shantk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantk18" height="30" width="40" />
+  <a href="https://linkedin.com/in/sudharshan-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantk18" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/shan-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shan-tk" height="30" width="40" />
   </a>
