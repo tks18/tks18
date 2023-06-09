@@ -18,14 +18,6 @@
 </p>
 <hr>
 <p align="center">
-<h3 align="center"> 
-  🔗 Links:
-</h3>
-<p align="center"><b> 🌐 <a href="https://sudharshan.dev/">sudharshan.dev</a> </b> </p>
-<p align="center"><b> 📧 <a href="mailto:hello@sudharshan.dev">hello@sudharshan.dev</a> </b> </p>
-</p>
-<hr>
-<p align="center">
 <h3 align="center">
   ⛓️ Connect with me:
 </h3>
