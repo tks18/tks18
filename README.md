@@ -63,11 +63,6 @@
   </a>
 </p>
 </p>
-<hr>
-<p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tks18&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="contribution chart" />
-</p>
-<hr>
 <p align="center">
 <h3 align="center">🐍 My Snake Contribution Graph 
   <img align="center" src="https://github.com/tks18/tks18/raw/output/github-contribution-grid-snake.svg" alt="contribution graph" />
