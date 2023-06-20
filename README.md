@@ -4,7 +4,7 @@
   I'm Sudharshan TK ✨
 </h1>
 <h3 align="center">
-  Chartered Accountant 💼 | Full Stack Developer 👨‍💻
+  Chartered Accountant 💼
 </h3>
 <p align="center"> 
   <a href="https://profile.codersrank.io/user/tks18/">
