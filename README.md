@@ -8,7 +8,7 @@
 </h3>
 <p align="center"> 
   <a href="https://profile.codersrank.io/user/tks18/">
-  <img src="https://i.ibb.co/QHkMB95/Screen-Shot.png" width="70%" alt="tks18" />
+  <img src="https://i.ibb.co/p1bQfRv/Screen-Shot.webp" width="70%" alt="tks18" />
   </a> 
 </p>
 <p align="center">
