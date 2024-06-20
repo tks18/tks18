@@ -1,25 +1,18 @@
-<h1 align="center">
-  Hi 
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, 
-  I'm Sudharshan TK ✨
-</h1>
-<h3 align="center">
-  Chartered Accountant 💼
-</h3>
+<h2 align="center">
+   Sudharshan TK ✨, Chartered Accountant 💼
+</h2>
 <p align="center"> 
-  <a href="https://profile.codersrank.io/user/tks18/">
-  <img src="https://i.ibb.co/p1bQfRv/Screen-Shot.webp" width="70%" alt="tks18" />
-  </a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tks18&show=prs_merged&include_all_commits=true&show_icons=true&rank_icon=percentile&theme=tokyonight&border_radius=5&custom_title=Github%20Profile%20%F0%9F%91%93%20-%20Sudharshan%20TK" alt="tks18" /> 
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=tks18&theme=dracula&column=4&no-bg=true" alt="tks18" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tks18&theme=radical&column=5&no-frame=false" alt="tks18" />
   </a>
 </p>
 <hr>
 <p align="center">
 <h3 align="center">
-  ⛓️ Connect with me:
+  🤙 Connect with me
 </h3>
 <p align="center">
   <a href="https://codepen.io/tks-18" target="blank">
@@ -48,18 +41,7 @@
 </p>
 </p>
 <hr>
-<p align="center">
-<h3 align="center">
-  ❤️ Support Me:
-</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shantk18"> 
-  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shantk18" />
-  </a>
-</p>
-</p>
-<hr>
-<h3 align="center">💻 Languages and Tools:</h3>
+<h3 align="center">💻 Languages and Tools</h3>
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -182,10 +164,17 @@
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
   </a> 
 </p>
-<br>
+<hr>
+<h3 align="center">🏆 Profile Stats</h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tks18&show_icons=true&theme=dracula&locale=en&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20Github%20Figures" alt="tks18" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tks18&theme=dracula&hide_border=true" alt="tks18" />
+    <img src="https://streak-stats.demolab.com?user=tks18&theme=tokyonight-duo&border_radius=5&card_width=450&card_height=180" alt="GitHub Streak" />
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tks18&layout=compact&custom_title=Language%20Stats%20by%20Wakatime&langs_count=10&theme=tokyonight&border_radius=5" alt="Wakatime Stats" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tks18&langs_count=20&layout=compact&theme=tokyonight&size_weight=1&count_weight=0" alt="Most used Languages" />
+</p>
+  
 
 ![](https://hit.yhype.me/github/profile?user_id=54493278)
