@@ -1,6 +1,9 @@
 <h2 align="center">
    Sudharshan TK ✨, Chartered Accountant 💼
 </h2>
+<p align="center">
+<a href="https://app.daily.dev/sudharshantk"><img src="https://api.daily.dev/devcards/v2/JLu66AvIjYGmFUk6VJbQj.png?type=wide&r=5b6" width="652" alt="Sudharshan TK's Dev Card"/></a>
+</p>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=tks18&show=prs_merged&include_all_commits=true&show_icons=true&rank_icon=percentile&theme=tokyonight&border_radius=5&custom_title=Github%20Profile%20%F0%9F%91%93%20-%20Sudharshan%20TK" alt="tks18" /> 
 </p>
