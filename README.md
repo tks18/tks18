@@ -2,12 +2,7 @@
    Sudharshan TK ✨, Chartered Accountant 💼
 </h2>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tks18&show=prs_merged&include_all_commits=true&show_icons=true&rank_icon=percentile&theme=tokyonight&border_radius=5&custom_title=Github%20Profile%20%F0%9F%91%93%20-%20Sudharshan%20TK" alt="tks18" /> 
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=tks18&theme=radical&column=5&no-frame=false" alt="tks18" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tks18&theme=dracula" alt="tks18" /> 
 </p>
 <hr>
 <p align="center">
@@ -170,10 +165,7 @@
     <img src="https://streak-stats.demolab.com?user=tks18&theme=tokyonight-duo&border_radius=5&card_width=450&card_height=180" alt="GitHub Streak" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tks18&layout=compact&custom_title=Language%20Stats%20by%20Wakatime&langs_count=10&theme=tokyonight&border_radius=5" alt="Wakatime Stats" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tks18&langs_count=20&layout=compact&theme=tokyonight&size_weight=1&count_weight=0" alt="Most used Languages" />
+    <img src="https://wakatime.com/share/@tks18/6809a151-8590-4d29-b97b-9c6e8a847e05.png" alt="Wakatime Stats" />
 </p>
   
 
