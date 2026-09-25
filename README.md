@@ -1,169 +1,277 @@
-<h2 align="center">
-   Sudharshan TK ✨, Chartered Accountant 💼
-</h2>
-<p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tks18&theme=dracula" alt="tks18" /> 
-</p>
-<hr>
-<p align="center">
-<h3 align="center">
-  🤙 Connect with me
-</h3>
-<p align="center">
-  <a href="https://codepen.io/tks-18" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tks-18" height="30"   width="40" />
-  </a>
-  <a href="https://dev.to/tks18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tks18" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sudharshan-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantk18" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/shan-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shan-tk" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.com/tks18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tks18" height="30" width="40" />
-  </a>
-  </a>
-  <a href="https://medium.com/@tksudharshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tksudharshan" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/pixelapsed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pixelapsed" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/tksudharshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tksudharshan" height="30" width="40" />
-  </a>
-  <a href="https://www.topcoder.com/members/tks18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="tks18" height="30" width="40" />
-  </a>
-</p>
-</p>
-<hr>
-<h3 align="center">💻 Languages and Tools</h3>
-<p align="center"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://bulma.io/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank"> 
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://circleci.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.electronjs.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a>
-  <a href="http://firebase.google.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://jekyllrb.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
-  </a> 
-  <a href="https://jestjs.io" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a>
-  <a href="https://mochajs.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank"> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://svelte.dev" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> 
-  </a> 
-  <a href="https://travis-ci.org" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuetifyjs.com/en/" target="_blank"> 
-  <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
-  </a> 
-  <a href="https://webpack.js.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> 
-  <a href="https://zapier.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
-  </a> 
-</p>
-<hr>
-<h3 align="center">🏆 Profile Stats</h3>
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=tks18&theme=tokyonight-duo&border_radius=5&card_width=450&card_height=180" alt="GitHub Streak" />
-</p>
-<p align="center">
-    <img src="https://wakatime.com/share/@tks18/6809a151-8590-4d29-b97b-9c6e8a847e05.png" alt="Wakatime Stats" />
-</p>
-  
+<div align="center">
 
-![](https://hit.yhype.me/github/profile?user_id=54493278)
+# Shan.tk 👋
+
+### Sudharshan TK · Chartered Accountant × Data Engineer × Software Builder
+
+**Finance → Data → Systems → Decisions**
+
+I build systems that turn messy financial and operational data into
+**reconciled state, reusable data infrastructure, and decision-ready
+analytics**.
+
+<a href="https://linkedin.com/in/sudharshan-tk"><img src="https://img.shields.io/badge/LinkedIn-Sudharshan_TK-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/tks18"><img src="https://img.shields.io/badge/GitHub-tks18-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/PyQuery-HQ"><img src="https://img.shields.io/badge/PyQuery-HQ-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyQuery HQ"></a>
+<a href="https://github.com/tks18/personal-finance-etl"><img src="https://img.shields.io/badge/Personal_Finance_ETL-Platform-2F855A?style=flat-square&logo=duckdb&logoColor=white" alt="Personal Finance ETL"></a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars">
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=111111" alt="DuckDB">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React">
+
+</div>
+
+------------------------------------------------------------------------
+
+## 🧭 The progression
+
+I started with the web, moved into full-stack products, found Python
+through analytics, and kept following the data until the side quests
+became engines. Somewhere along the way, Chartered Accountancy and
+software engineering stopped being separate tracks. 😄
+
+```mermaid
+flowchart LR
+    E1["I · Product Engineering<br/>Vue · React · TypeScript<br/>Node · Express · PostgreSQL"]
+    E2["II · Analytics Engineering<br/>Excel · Power Query · Power BI<br/>Python automation"]
+    E3["III · Data & Semantic Systems<br/>Polars · SQL · ETL<br/>PyQuery · RAG · Local AI"]
+    E4["IV · Finance × Systems<br/>Control Plane · DuckDB<br/>Tax · XIRR · Monte Carlo"]
+
+    E1 --> E2 --> E3 --> E4
+
+    CA["Chartered Accountancy<br/>Accounting · Tax · Controls"] --> X["Finance × Engineering"]
+    E2 --> X
+    E3 --> X
+    X --> E4
+```
+
+<div align="center">
+
+**Build products → engineer data → model semantics → reconstruct
+financial truth.**
+
+</div>
+
+------------------------------------------------------------------------
+
+## 🚀 Flagship systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 [Personal Finance ETL](https://github.com/tks18/personal-finance-etl)
+
+**A local-first financial data platform.**
+
+Reconstructs fragmented financial evidence into reconciled household and
+investment state, then carries that state through analytics, tax,
+planning, and BI.
+
+**Data engineering**  
+`SQLite Control Plane` · `DuckDB` · `Polars` · `20 Silver` · `17 Gold`
+
+**Finance & quant**  
+`FIFO Tax Lots` · `XIRR` · `Shadow Benchmarks` · `After-Tax Wealth` ·
+`Monte Carlo FIRE`
+
+**Product surface**  
+`Power BI` · `CLI` · `Desktop` · `Packaged Docs`
+
+**Explore:** [Repo](https://github.com/tks18/personal-finance-etl) ·
+[Wiki](https://github.com/tks18/personal-finance-etl/wiki) ·
+[Docs](https://github.com/tks18/personal-finance-etl/blob/master/docs/README.md)
+· [PyPI](https://pypi.org/project/personal-finance-etl/)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [PyQuery](https://github.com/PyQuery-HQ)
+
+**Python-native data execution systems.**
+
+What began as Power Query-style transformation tooling evolved into
+reusable local-first data infrastructure.
+
+**Current direction**  
+`Polars-first` · `Typed` · `Deterministic` · `Plugin-driven`
+
+**System evolution**  
+`Lazy Execution` · `Large-file Workflows` · `CLI` · `UI` · `API` · `SDK`
+
+**What it represents**  
+Reusable transformation machinery instead of one-off scripts.
+
+**Explore:** [HQ](https://github.com/PyQuery-HQ) ·
+[Core](https://github.com/PyQuery-HQ/pyquery-core) ·
+[Legacy](https://github.com/PyQuery-HQ/pyquery-legacy)
+
+</td>
+</tr>
+</table>
+
+------------------------------------------------------------------------
+
+## 🧩 Selected engineering work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [pbi-to-sql](https://github.com/tks18/pbi-to-sql)
+
+**Power BI semantics → reusable data infrastructure**
+
+Extracts a Power BI semantic model, reconstructs it in relational SQL,
+and layers local semantic/RAG capabilities over that state.
+
+`TMDL` · `SQLite` · `LangChain` · `Ollama` · `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [xlwings-excel-api](https://github.com/tks18/xlwings-excel-api)
+
+**Python engineering inside real Excel workflows**
+
+A modular Python × Excel × VBA framework for UDFs, query helpers, Power
+Query functions, and reusable analytics utilities.
+
+`Python` · `xlwings` · `VBA` · `Power Query` · `Power BI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 [Shan's Dataverse](https://github.com/tks18/streamlit-synthetic-data)
+
+**Analytics engineering turned into a product**
+
+An interactive synthetic-data workbench for finance and operations POCs,
+dashboard testing, modelling, and prototyping without exposing real
+client data.
+
+`Streamlit` · `Schema Builder` · `Vectorized Formulas` ·
+`AST Validation` · `Reusable Profiles`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [open-memory-lane](https://github.com/tks18/open-memory-lane)
+
+**A local systems-engineering side quest**
+
+An open-source, memory-conscious take on Windows Recall built around
+local multimedia processing.
+
+`Python` · `OpenCV` · `FFmpeg` · `Local-first`
+
+</td>
+</tr>
+</table>
+
+<sub>Also in the analytics-tooling lane:
+<a href="https://github.com/tks18/xl-pq-handler"><b>xl-pq-handler</b></a>,
+built around managing Power Query assets as maintainable engineering
+artifacts.</sub>
+
+------------------------------------------------------------------------
+
+## 🌱 Before the data engines
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [gindex-v4](https://github.com/tks18/gindex-v4)
+
+A Vue-based Google Drive indexing product with backend services,
+authentication, role-based access control, MongoDB, media handling, and
+deployment tooling.
+
+`Vue` · `Node.js` · `MongoDB` · `JWT`
+
+**250+ stars · 230+ forks**
+
+Open-source product engineering before data systems became the main
+plot.
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Finance Manager
+
+A full-stack personal-finance application built across **400+ commits**
+in separate frontend and backend repositories.
+
+**[Frontend](https://github.com/tks18/finance-manager)**  
+`React` · `TypeScript` · `Redux`
+
+**[Backend](https://github.com/tks18/finance-manager-backend)**  
+`Node.js` · `Express` · `PostgreSQL` · `Sequelize` · `JWT`
+
+Where finance and product engineering first started sharing the same
+codebase.
+
+</td>
+</tr>
+</table>
+
+------------------------------------------------------------------------
+
+## 🧰 Engineering arsenal
+
+| I build around            | Toolkit / concepts                                                                          |
+|---------------------------|---------------------------------------------------------------------------------------------|
+| **Data systems**          | Python · Polars · DuckDB · SQLite · SQL · ETL · lazy execution · data contracts             |
+| **Analytics & BI**        | Power BI · Power Query · Excel · DAX · semantic modelling · analytical marts                |
+| **Product & full stack**  | TypeScript · React · Vue · Redux · Node.js · Express · REST · PostgreSQL · MongoDB          |
+| **Software engineering**  | Pydantic · OOP · clean architecture · APIs · CLI · desktop apps · testing · strict typing   |
+| **Finance & quant**       | Accounting · reconciliation · tax · FIFO · XIRR · portfolio analytics · Monte Carlo         |
+| **Analytics products**    | Streamlit · synthetic data · schema builders · formula engines · safe expression evaluation |
+| **AI / semantic systems** | LangChain · RAG · Ollama · local LLM workflows · semantic metadata                          |
+
+> **Chartered Accountancy is the domain lens, not a decorative
+> credential.** It shows up in how I think about evidence,
+> reconciliation, controls, tax, grain, and financial semantics.
+
+------------------------------------------------------------------------
+
+## 🏆 A little GitHub flex
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tks18&theme=dracula" alt="Shan.tk GitHub profile summary">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=tks18&theme=tokyonight-duo&border_radius=5&card_width=450&card_height=180" alt="Shan.tk GitHub streak">
+
+</div>
+
+<p align="center"><sub>Stats are fun. Projects are the receipts.</sub></p>
+
+------------------------------------------------------------------------
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sudharshan-tk"><img src="https://img.shields.io/badge/LinkedIn-Sudharshan_TK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/tks18"><img src="https://img.shields.io/badge/GitHub-tks18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/PyQuery-HQ"><img src="https://img.shields.io/badge/PyQuery-HQ-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyQuery HQ"></a>
+<a href="https://github.com/tks18/personal-finance-etl"><img src="https://img.shields.io/badge/Personal_Finance_ETL-Explore-2F855A?style=for-the-badge&logo=duckdb&logoColor=white" alt="Personal Finance ETL"></a>
+
+<br><br>
+
+**Finance gave me the questions. Data gave me the structure. Software engineering gave me the tools to build the answers.**
+
+</div>
