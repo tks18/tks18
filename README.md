@@ -30,7 +30,7 @@ analytics**.
 
 ------------------------------------------------------------------------
 
-## 🧭 The progression
+## 🧭 How the side quests became systems
 
 I started with the web, moved into full-stack products, found Python
 through analytics, and kept following the data until the side quests
@@ -227,7 +227,7 @@ codebase.
 
 ------------------------------------------------------------------------
 
-## 🧰 Engineering arsenal
+## 🧰 What I build with
 
 | I build around            | Toolkit / concepts                                                                          |
 |---------------------------|---------------------------------------------------------------------------------------------|
@@ -245,7 +245,7 @@ codebase.
 
 ------------------------------------------------------------------------
 
-## 🏆 A little GitHub flex
+## 🏆 Okay, a little GitHub flex
 
 <div align="center">
 
@@ -272,6 +272,6 @@ codebase.
 
 <br><br>
 
-**Finance gave me the questions. Data gave me the structure. Software engineering gave me the tools to build the answers.**
+**Finance gave me the questions. Data gave me the structure. Software engineering let me build the answers.**
 
 </div>
