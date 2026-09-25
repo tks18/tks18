@@ -61,7 +61,7 @@ financial truth.**
 
 ------------------------------------------------------------------------
 
-## 🚀 Flagship systems
+## 🚀 Flagship Systems
 
 <table>
 <tr>
@@ -119,7 +119,7 @@ Reusable transformation machinery instead of one-off scripts.
 
 ------------------------------------------------------------------------
 
-## 🧩 Selected engineering work
+## 🧩 Selected Engineering Work
 
 <table>
 <tr>
@@ -178,14 +178,14 @@ local multimedia processing.
 </tr>
 </table>
 
-<sub>Also in the analytics-tooling lane:
+<sub>Also in the analytics tooling lane:
 <a href="https://github.com/tks18/xl-pq-handler"><b>xl-pq-handler</b></a>,
 built around managing Power Query assets as maintainable engineering
 artifacts.</sub>
 
 ------------------------------------------------------------------------
 
-## 🌱 Before the data engines
+## 🌱 Before the Data Engines
 
 <table>
 <tr>
@@ -227,7 +227,7 @@ codebase.
 
 ------------------------------------------------------------------------
 
-## 🧰 What I build with
+## 🧰 What I Build With
 
 | I build around            | Toolkit / concepts                                                                          |
 |---------------------------|---------------------------------------------------------------------------------------------|
@@ -245,7 +245,7 @@ codebase.
 
 ------------------------------------------------------------------------
 
-## 🏆 Okay, a little GitHub flex
+## 🏆 Okay, a Little GitHub Flex
 
 <div align="center">
 
