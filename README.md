@@ -14,7 +14,7 @@ I build local-first systems that turn messy financial and operational evidence i
 <a href="https://github.com/PyQuery-HQ"><img src="https://img.shields.io/badge/PyQuery-HQ-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyQuery HQ"></a>
 <a href="https://github.com/tks18/personal-finance-etl"><img src="https://img.shields.io/badge/Personal_Finance_ETL-Flagship-2F855A?style=flat-square&logo=duckdb&logoColor=white" alt="Personal Finance ETL"></a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars">
