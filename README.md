@@ -68,7 +68,7 @@ flowchart LR
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
 ### 💸 [Personal Finance ETL](https://github.com/tks18/personal-finance-etl)
 
@@ -96,7 +96,7 @@ Somewhere around the SQLite Control Plane, I accepted that this was no longer a 
 **[Repo](https://github.com/tks18/personal-finance-etl) · [Wiki](https://github.com/tks18/personal-finance-etl/wiki) · [Docs](https://github.com/tks18/personal-finance-etl/blob/master/docs/README.md) · [PyPI](https://pypi.org/project/personal-finance-etl/)**
 
 </td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚡ [PyQuery](https://github.com/PyQuery-HQ)
 
