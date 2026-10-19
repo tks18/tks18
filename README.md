@@ -2,12 +2,12 @@
 
 # Shan.tk 👋
 
-### Sudharshan TK · Chartered Accountant × Data Engineer × Software Builder
+### Sudharshan TK · Chartered Accountant × Data & Software Engineer
 
 **Finance → Data → Systems → Decisions**
 
-I build local-first systems that turn messy financial and operational evidence into
-**reconciled state, reusable data infrastructure, and decision-ready analytics**.
+I build local-first systems that turn messy financial and operational evidence into  
+**reconciled state, reliable data infrastructure, and decision-ready analytics**.
 
 <a href="https://linkedin.com/in/sudharshan-tk"><img src="https://img.shields.io/badge/LinkedIn-Sudharshan_TK-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/tks18"><img src="https://img.shields.io/badge/GitHub-tks18-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -31,28 +31,29 @@ I build local-first systems that turn messy financial and operational evidence i
 
 ## 🧭 How the side quests became systems
 
-I started by building for the web, moved into full-stack products, found Python through analytics,
-then kept following the data until the scripts became pipelines and the pipelines became systems.
+I started with the web, moved into full-stack products, found Python through analytics, then kept following the data until scripts became pipelines and pipelines became systems.
 
 In parallel, Chartered Accountancy kept teaching me to ask annoying-but-useful questions:
 
-**Where did this number come from? What evidence supports it? Does it reconcile? What changed? Can I explain it later?**
+> **Where did this number come from? What evidence supports it? Does it reconcile? What changed? Can I explain it later?**
 
 Eventually finance and engineering stopped being separate tracks.
 
+*Appo dhaan main picture start aachu.* 🔥
+
+I like to think the progression has a little **Thalaivar entry energy**: the setup looks reasonable, the background score slowly gets louder, and suddenly the side project has a Control Plane.
+
 ```mermaid
 flowchart LR
-    WEB["I · Product Engineering<br/>Vue · React · TypeScript<br/>Node · APIs · Databases"]
-    ANA["II · Analytics Engineering<br/>Excel · Power Query · Power BI<br/>Python Automation"]
-    DATA["III · Data Systems<br/>Polars · SQL · ETL<br/>Contracts · Semantic Systems"]
-    FIN["IV · Finance × Systems<br/>Control Plane · Quant<br/>Tax · FIRE · BI"]
+    WEB["Product Engineering<br/>Vue · React · Node"]
+    ANA["Analytics<br/>Excel · Power BI · Python"]
+    DATA["Data Engineering<br/>Polars · SQL · ETL"]
+    SYS["Software Systems<br/>Architecture · Reliability"]
+    FIN["Finance × Engineering<br/>Quant · Tax · FIRE · BI"]
+    PF["💸 Personal Finance ETL"]
 
-    WEB --> ANA --> DATA --> FIN
-
-    CA["Chartered Accountancy<br/>Accounting · Tax · Controls<br/>Evidence · Reconciliation"] --> X["Finance × Engineering"]
-    ANA --> X
-    DATA --> X
-    X --> FIN
+    WEB --> ANA --> DATA --> SYS --> FIN --> PF
+    CA["Chartered Accountancy<br/>Accounting · Tax · Controls"] --> FIN
 ```
 
 <div align="center">
@@ -63,61 +64,55 @@ flowchart LR
 
 ---
 
-## 💎 Flagship Systems
+## 🚀 The projects that got out of hand
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
 ### 💸 [Personal Finance ETL](https://github.com/tks18/personal-finance-etl)
 
-**My flagship: a local-first financial data engineering and quantitative decision-support platform.**
+**The side project that forgot it was a side project.**
 
-I use it to turn fragmented household, broker, market, FX, and reference evidence into one
-**reconciled financial state** that supports investment accounting, tax preparation, wealth analytics,
-FIRE planning, and Power BI.
+I wanted one reliable view of my finances.
 
-**Evidence & data engineering**  
-`SQLite Control Plane` · `Artifact History` · `Persistent Bronze` · `Polars DAG` · `DuckDB` · `66 Data Contracts`
+An unreasonable number of commits later, I somehow had a local-first financial data platform spanning household finance, investments, FIFO accounting, broker reconciliation, multi-currency analytics, tax evidence, wealth, FIRE, Power BI, CLI, and Desktop.
 
-**Finance & Quant**  
-`Deterministic IDs` · `FIFO Tax Lots` · `Realized Events` · `Broker Reconciliation` · `XIRR` · `Shadow Benchmarks` · `FX Attribution`
+`Python` · `Polars` · `DuckDB` · `SQLite` · `Power BI`
 
-**Tax, wealth & planning**  
-`Tax Evidence` · `After-Tax Wealth` · `Cash-Flow Reconciliation` · `Markov Regimes` · `Monte Carlo FIRE`
+**Finance**  
+`FIFO` · `XIRR` · `FX Attribution` · `Tax` · `Wealth` · `Monte Carlo FIRE`
 
-**Reliability & product**  
-`Healing / Replay` · `Forensic Logging` · `Snapshot / Restore` · `CLI` · `Desktop` · `Power BI`
+**Engineering**  
+`ETL` · `Data Contracts` · `Lineage` · `Typed Architecture` · `Recovery` · `Testing`
 
-The fun part is that none of those subsystems gets to invent its own financial truth. 😄
+**Product**  
+`CLI` · `Desktop` · `Power BI` · `PyPI`
 
-**Explore:** [Repo](https://github.com/tks18/personal-finance-etl) ·
-[Wiki](https://github.com/tks18/personal-finance-etl/wiki) ·
-[Docs](https://github.com/tks18/personal-finance-etl/blob/master/docs/README.md) ·
-[PyPI](https://pypi.org/project/personal-finance-etl/)
+Somewhere around the SQLite Control Plane, I accepted that this was no longer a budgeting script. 😂
+
+*Simple-ah start pannadhu... konjam mass-ah poiduchu.* 🔥
+
+**[Repo](https://github.com/tks18/personal-finance-etl) · [Wiki](https://github.com/tks18/personal-finance-etl/wiki) · [Docs](https://github.com/tks18/personal-finance-etl/blob/master/docs/README.md) · [PyPI](https://pypi.org/project/personal-finance-etl/)**
 
 </td>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
 ### ⚡ [PyQuery](https://github.com/PyQuery-HQ)
 
-**Python-native data execution systems.**
+**Power Query instincts. Python-native machinery.**
 
-What began as Power Query-style transformation tooling evolved into reusable local-first
-data infrastructure.
+I liked the transformation model. I also wanted Python, Polars, typed contracts, reusable execution, and fewer mysterious workbook rituals.
 
-**Current core**  
-`Polars-first` · `Typed` · `Deterministic` · `Plugin-driven`
+So PyQuery grew from workflow automation into reusable local-first data infrastructure.
 
-**Platform evolution**  
-`Lazy Execution` · `Large-file Workflows` · `CLI` · `UI` · `API` · `SDK`
+If PFETL is my **Thalaivar-scale escalation arc**, PyQuery is the **Aandavar side of the brain**: keep experimenting with form, keep changing genres, keep asking whether the machinery itself can become the interesting part. 🎬
 
-**What it proves**  
-I like extracting reusable machinery from real workflows instead of collecting one-off scripts until the folder needs therapy.
+`Polars` · `Lazy Execution` · `Plugins` · `CLI` · `UI` · `API` · `SDK`
 
-**Explore:** [HQ](https://github.com/PyQuery-HQ) ·
-[Core](https://github.com/PyQuery-HQ/pyquery-core) ·
-[Legacy](https://github.com/PyQuery-HQ/pyquery-legacy)
+I prefer extracting reusable machinery from real workflows over collecting one-off scripts until the folder needs therapy.
+
+**[HQ](https://github.com/PyQuery-HQ) · [Core](https://github.com/PyQuery-HQ/pyquery-core) · [Legacy](https://github.com/PyQuery-HQ/pyquery-legacy)**
 
 </td>
 </tr>
@@ -125,9 +120,7 @@ I like extracting reusable machinery from real workflows instead of collecting o
 
 ---
 
-## 🧩 Selected Engineering Work
-
-Each of these sits on a different part of the path. I prefer that to a portfolio where twelve repositories all prove I can make another CRUD app.
+## 🧩 Other things I built
 
 <table>
 <tr>
@@ -135,26 +128,24 @@ Each of these sits on a different part of the path. I prefer that to a portfolio
 
 ### 🧠 [pbi-to-sql](https://github.com/tks18/pbi-to-sql)
 
-**Power BI semantics → reusable data infrastructure**
+**Power BI semantics → relational state → local AI**
 
-Extracts a Power BI semantic model, reconstructs it in relational SQL, then layers local semantic/RAG capabilities over that state.
+I reconstruct Power BI semantic models in SQL, then make that metadata useful for local semantic and RAG workflows.
 
-`TMDL` · `SQLite` · `LangChain` · `Ollama` · `RAG`
-
-**Signal:** BI semantics, metadata engineering, relational reconstruction, local AI.
+`TMDL` · `SQLite` · `LangChain` · `Ollama`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 [xlwings-excel-api](https://github.com/tks18/xlwings-excel-api)
 
-**Python engineering inside real Excel workflows**
+**Python engineering where the users actually are.**
 
 A modular Python × Excel × VBA framework for UDFs, query helpers, Power Query functions, and reusable analytics utilities.
 
-`Python` · `xlwings` · `VBA` · `Power Query` · `Power BI`
+`Python` · `xlwings` · `VBA` · `Power Query`
 
-**Signal:** pragmatic automation where business workflows actually live.
+Sometimes the correct enterprise architecture really does begin with: **the users are in Excel.**
 
 </td>
 </tr>
@@ -163,41 +154,34 @@ A modular Python × Excel × VBA framework for UDFs, query helpers, Power Query 
 
 ### 🧪 [Shan's Dataverse](https://github.com/tks18/streamlit-synthetic-data)
 
-**Analytics engineering turned into a product**
+**Analytics engineering turned into a product.**
 
-An interactive synthetic-data workbench for finance and operations POCs, dashboard testing,
-modelling, and prototyping without exposing real client data.
+A configurable synthetic-data workbench for finance and operations POCs, dashboard testing, modelling, and prototyping without exposing real client data.
 
-`Streamlit` · `Schema Builder` · `Vectorized Formulas` · `AST Validation` · `Reusable Profiles`
-
-**Signal:** analytical product design, safe prototyping, configurable data generation.
+`Streamlit` · `Schema Builder` · `Vectorized Formulas` · `AST Validation`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 [open-memory-lane](https://github.com/tks18/open-memory-lane)
 
-**A local systems-engineering side quest**
+**A privacy-first systems side quest.**
 
-An open-source, memory-conscious take on Windows Recall built around local multimedia processing.
+My local, memory-conscious take on Windows Recall built around multimedia processing and resource constraints.
 
-`Python` · `OpenCV` · `FFmpeg` · `SQLite` · `Local-first`
+`Python` · `OpenCV` · `FFmpeg` · `SQLite`
 
-**Signal:** multimedia pipelines, resource constraints, privacy-first local systems.
+My screenshots do not need a world tour either.
 
 </td>
 </tr>
 </table>
 
-<sub>Also in the analytics-tooling lane:
-<a href="https://github.com/tks18/xl-pq-handler"><b>xl-pq-handler</b></a>,
-where Power Query assets become maintainable engineering artifacts instead of mysterious workbook archaeology.</sub>
+<sub>Also in the analytics-tooling lane: <a href="https://github.com/tks18/xl-pq-handler"><b>xl-pq-handler</b></a>, where I turn Power Query assets into maintainable engineering artifacts instead of mysterious workbook archaeology.</sub>
 
 ---
 
-## 🌱 Before the Data Engines
-
-These projects matter because they show where the systems instincts came from.
+## 🌱 The prequels
 
 <table>
 <tr>
@@ -205,8 +189,7 @@ These projects matter because they show where the systems instincts came from.
 
 ### 🌐 [gindex-v4](https://github.com/tks18/gindex-v4)
 
-A Vue-based Google Drive indexing product with backend services, authentication,
-role-based access control, MongoDB, media handling, and deployment tooling.
+A Vue-based Google Drive indexing product with backend services, authentication, RBAC, MongoDB, media handling, and deployment tooling.
 
 `Vue` · `Node.js` · `MongoDB` · `JWT`
 
@@ -219,16 +202,16 @@ Open-source product engineering before data systems became the main plot.
 
 ### 💰 Finance Manager
 
-A full-stack personal-finance application built across **400+ commits** in separate frontend and backend repositories.
+My earlier full-stack personal-finance application, built across **400+ commits**.
 
-**[Frontend](https://github.com/tks18/finance-manager)**  
-`React` · `TypeScript` · `Redux`
+**[Frontend](https://github.com/tks18/finance-manager)** · `React` · `TypeScript` · `Redux`  
+**[Backend](https://github.com/tks18/finance-manager-backend)** · `Node.js` · `Express` · `PostgreSQL`
 
-**[Backend](https://github.com/tks18/finance-manager-backend)**  
-`Node.js` · `Express` · `PostgreSQL` · `Sequelize` · `JWT`
+This was where finance and product engineering first shared a codebase.
 
-This was where finance and product engineering first started sharing the same codebase.
 Personal Finance ETL is what happened after I kept asking harder questions of the data. 😅
+
+*Idhu prequel. Main padam mela irukku.* 🎬
 
 </td>
 </tr>
@@ -236,59 +219,54 @@ Personal Finance ETL is what happened after I kept asking harder questions of th
 
 ---
 
-## 🧠 The engineering pattern underneath the repos
+## 🧠 Apparently I have a pattern
 
-Different projects, same recurring instincts:
+**Evidence > vibes.**  
+If two states disagree, I model the disagreement. Making the dashboard prettier is not reconciliation. *Kanakku correct-ah irukkanum boss.* 😌
 
-```mermaid
-flowchart LR
-    E["Preserve evidence"] --> S["Model semantics"]
-    S --> C["Make contracts explicit"]
-    C --> R["Reconcile state"]
-    R --> D["Serve decisions"]
-    D --> P["Preserve provenance"]
-    P --> E
-```
+**Grain before metrics.**  
+A perfect formula over the wrong object is still beautifully wrong.
 
-- **Evidence over convenient assumptions.** If two states disagree, I would rather model the disagreement than silently make the dashboard prettier.
-- **Grain before metrics.** A correct formula over the wrong financial object is still wrong.
-- **Local-first when the data deserves it.** Personal and client-sensitive workflows do not need a cloud platform merely to feel sophisticated.
-- **Different workloads deserve different compute models.** Vectorized ETL, stateful FIFO, numerical Monte Carlo, BI serving, and UI orchestration do not need one abstraction to win every argument.
-- **Generalize from working systems.** I prefer abstractions extracted from real variation over frameworks designed for hypothetical futures.
-- **Delete complexity when it loses its job.** Architecture should accumulate evidence, not barnacles.
+**Local-first when the data deserves it.**  
+My bank statements do not need a world tour.
+
+**Different problems get different machinery.**  
+Polars, stateful Python, Numba, SQL, BI, and UI all have jobs. I refuse to make one abstraction cosplay as all six.
+
+This is probably the most **Aandavar-coded** part of how I build: I like changing the form when the problem changes instead of forcing every story into the same genre.
+
+**Delete complexity when it stops paying rent.**  
+I enjoy architecture. I do not collect it.
+
+Mass is great. Unnecessary runtime is not. Even the hero needs an editor. 😂
 
 ---
 
-## 🧰 What I Build With
+## 🧰 The toolbox
 
-| Capability | Toolkit / concepts |
+| Lane | What usually shows up |
 |---|---|
-| **Data engineering** | Python · Polars · DuckDB · SQLite · SQL · ETL · data contracts · lineage · reconciliation |
-| **Analytics & BI** | Power BI · Power Query · Excel · DAX · semantic modelling · analytical marts |
-| **Software & product engineering** | Pydantic · APIs · CLI · desktop apps · multiprocessing · TypeScript · React · Node.js |
-| **Finance & Quant** | Accounting · controls · tax · FIFO · XIRR · portfolio analytics · FX attribution · Monte Carlo |
-| **Reliability & architecture** | Deterministic identity · provenance · transactions · recovery · snapshot/restore · observability |
-| **AI & semantic systems** | LangChain · RAG · Ollama · local LLM workflows · semantic metadata |
+| **Finance** | Accounting · controls · tax · FIFO · XIRR · FX · wealth · FIRE |
+| **Data** | Python · Polars · DuckDB · SQLite · SQL · ETL · contracts · lineage |
+| **Analytics** | Power BI · Power Query · Excel · DAX · semantic modelling |
+| **Software** | Pydantic · APIs · CLI · desktop apps · TypeScript · React · Node.js |
+| **Reliability** | Deterministic identity · provenance · recovery · testing · observability |
+| **Semantic / local AI** | LangChain · RAG · Ollama · semantic metadata |
 
-> **Chartered Accountancy is the domain lens, not a decorative credential.**
-> It shows up in how I think about evidence, reconciliation, controls, tax, grain,
-> financial semantics, and whether a number can survive being asked “why?”
+> **Chartered Accountancy is the domain lens, not a decorative credential.**  
+> It shows up in how I think about evidence, reconciliation, controls, tax, grain, and whether a number can survive being asked **why**.
 
 ---
 
-## 🏆 Okay, a Little GitHub Flex
+## 🏆 Tiny GitHub flex
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tks18&theme=dracula" alt="Shan.tk GitHub profile summary">
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=tks18&theme=tokyonight-duo&border_radius=5&card_width=450&card_height=180" alt="Shan.tk GitHub streak">
-
 </div>
 
-<p align="center"><sub>Stats are fun. Projects are the receipts.</sub></p>
+<p align="center"><sub>Stats are fun. Projects are the receipts. Mass-ku proof venum. 🔥</sub></p>
 
 ---
 
@@ -304,5 +282,7 @@ flowchart LR
 <br><br>
 
 **Finance gave me the questions. Data gave me the structure. Software engineering let me build the answers.**
+
+<sub>*Class konjam. Mass konjam. Kanakku full-ah.* 🔥</sub>
 
 </div>
