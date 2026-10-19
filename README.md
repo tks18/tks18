@@ -279,7 +279,7 @@ Mass is great. Unnecessary runtime is not. Even the hero needs an editor. 😂
 <a href="https://github.com/PyQuery-HQ"><img src="https://img.shields.io/badge/PyQuery-HQ-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyQuery HQ"></a>
 <a href="https://github.com/tks18/personal-finance-etl"><img src="https://img.shields.io/badge/Personal_Finance_ETL-Explore-2F855A?style=for-the-badge&logo=duckdb&logoColor=white" alt="Personal Finance ETL"></a>
 
-<br><br>
+<br>
 
 **Finance gave me the questions. Data gave me the structure. Software engineering let me build the answers.**
 
