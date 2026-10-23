@@ -76,7 +76,7 @@ flowchart LR
 
 I wanted one reliable view of my finances.
 
-An unreasonable number of commits later, I somehow had a local-first financial data platform spanning household finance, investments, FIFO accounting, broker reconciliation, multi-currency analytics, tax evidence, wealth, FIRE, Power BI, CLI, and Desktop.
+An unreasonable number of commits later, I somehow had a local-first personal financial systems platform spanning household finance, investment accounting, broker reconciliation, multi-currency analytics, tax evidence, wealth, FIRE, Power BI, CLI, and Desktop.
 
 `Python` · `Polars` · `DuckDB` · `SQLite` · `Power BI`
 
@@ -84,7 +84,7 @@ An unreasonable number of commits later, I somehow had a local-first financial d
 `FIFO` · `XIRR` · `FX Attribution` · `Tax` · `Wealth` · `Monte Carlo FIRE`
 
 **Engineering**  
-`ETL` · `Data Contracts` · `Lineage` · `Typed Architecture` · `Recovery` · `Testing`
+`ETL` · `Data Contracts` · `Lineage` · `Typed Architecture` · `Recovery` · `Observability`
 
 **Product**  
 `CLI` · `Desktop` · `Power BI` · `PyPI`
@@ -93,7 +93,7 @@ Somewhere around the SQLite Control Plane, I accepted that this was no longer a 
 
 *Simple-ah start pannadhu... konjam mass-ah poiduchu.* 🔥
 
-**[Repo](https://github.com/tks18/personal-finance-etl) · [Wiki](https://github.com/tks18/personal-finance-etl/wiki) · [Docs](https://github.com/tks18/personal-finance-etl/blob/master/docs/README.md) · [PyPI](https://pypi.org/project/personal-finance-etl/)**
+**[Repo](https://github.com/tks18/personal-finance-etl) · [Engineering Portal](https://tks18.github.io/personal-finance-etl/) · [Wiki](https://github.com/tks18/personal-finance-etl/wiki) · [PyPI](https://pypi.org/project/personal-finance-etl/)**
 
 </td>
 <td width="50%" valign="top">
